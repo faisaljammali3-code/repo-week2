@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bootcamp_data"
+version = "0.1.0"
+description = "My ETL project"
+dependencies = [
+    "pandas",
+    "pyarrow",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

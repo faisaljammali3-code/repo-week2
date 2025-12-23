@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: bootcamp_data
+Version: 0.1.0
+Summary: My ETL project
+Requires-Dist: pandas
+Requires-Dist: pyarrow
