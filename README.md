@@ -64,7 +64,7 @@ After running the pipeline, the following artifacts are generated:
 *   `data/processed/orders_clean.parquet`: Cleaned orders data.
 *   `reports/figures/`: Exported charts (Revenue Trend, Refund Rates, etc.).
 *   `reports/summary.md`: A business summary of the key findings.
-```
+
 ## Proof of Execution
 Here is a screenshot showing the generated artifacts and reports:
 
