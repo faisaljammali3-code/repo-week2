@@ -1,4 +1,7 @@
 .venv/
 .env
 output/
+processed/
 __pycache__/
+cache/
+.DS_Store
