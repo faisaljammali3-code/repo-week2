@@ -13,7 +13,7 @@ A robust, reproducible data pipeline built to process sales data, handle data qu
 ```text
 ├── data/
 │   ├── raw/             # Immutable input CSVs (orders.csv, users.csv)
-│   └── processed/       # Cleaned Parquet files & run metadata
+│         
 ├── notebooks/           # EDA analysis (reads from processed data)
 ├── reports/
 │   ├── figures/         # Exported PNG charts from EDA
