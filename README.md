@@ -13,7 +13,6 @@ A robust, reproducible data pipeline built to process sales data, handle data qu
 ```text
 ├── data/
 │   ├── raw/             # Immutable input CSVs (orders.csv, users.csv)
-│         
 ├── notebooks/           # EDA analysis (reads from processed data)
 ├── reports/
 │   ├── figures/         # Exported PNG charts from EDA
@@ -70,4 +69,3 @@ Here is a screenshot showing the generated artifacts and reports:
 
 ![Submission Proof]
 (submission_proof.png)
-<img width="172" height="414" alt="image" src="https://github.com/user-attachments/assets/ca81af41-7ad9-4946-83e8-ab9893a93b94" />
